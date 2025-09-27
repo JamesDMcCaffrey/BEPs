@@ -4,6 +4,7 @@ BEP stands for BNB Evolution Proposal. Each BEP will be a proposal document prov
 
 Here is the list of subjects of BEPs:
 
+[Twitter]([./BEPs/BEP1.md](https://x.com/BEPsLabs))
 
 | Number                       | Title                                                     | Type      | Status    |
 |------------------------------| --------------------------------------------------------- | --------- |-----------|
